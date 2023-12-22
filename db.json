@@ -1,33 +1,59 @@
 {
-  "projects": [
+  "flights": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "departure_city": "New York",
+      "departure_airport": "John F. Kennedy International Airport",
+      "departure_time": "08:00",
+      "arrival_city": "Los Angeles",
+      "arrival_airport": "Los Angeles International Airport",
+      "arrival_time": "11:00",
+      "flight-date": "2023-12-25",
+      "airline": "American Airlines"
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "departure_city": "New York",
+      "departure_airport": "Newark Liberty International Airport",
+      "departure_time": "09:30",
+      "arrival_city": "London",
+      "arrival_airport": "Heathrow Airport",
+      "arrival_time": "22:00",
+      "flight-date": "2023-12-26",
+      "airline": "Delta Air Lines"
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "departure_city": "Los Angeles",
+      "departure_airport": "John Wayne Airport",
+      "departure_time": "07:45",
+      "arrival_city": "Paris",
+      "arrival_airport": "Charles de Gaulle Airport",
+      "arrival_time": "15:30",
+      "flight-date": "2023-12-27",
+      "airline": "Turkish Airlines"
+    },
+    {
+      "id": 4,
+      "departure_city": "Madrid",
+      "departure_airport": "Adolfo Suárez Madrid-Barajas Airport",
+      "departure_time": "10:00",
+      "arrival_city": "Paris",
+      "arrival_airport": "Orly Airport",
+      "arrival_time": "12:40",
+      "flight-date": "2023-12-28",
+      "airline": "Iberia"
+    },
+    {
+      "id": 5,
+      "departure_city": "Manila",
+      "departure_airport": "Clark International Airport",
+      "departure_time": "18:20",
+      "arrival_city": "Moscow",
+      "arrival_airport": "Vnukovo International Airport",
+      "arrival_time": "22:15",
+      "flight-date": "2023-12-30",
+      "airline": "Emirates"
     }
   ]
 }
