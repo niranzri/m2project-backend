@@ -5,10 +5,10 @@
       "departure_city": "New York",
       "departure_airport": "John F. Kennedy International Airport",
       "departure_time": "08:00",
-      "arrival_city": "Los Angeles",
-      "arrival_airport": "Los Angeles International Airport",
+      "arrival_city": "Melbourne",
+      "arrival_airport": "Melbourne Airport",
       "arrival_time": "11:00",
-      "flight-date": "2023-12-25",
+      "flight_date": "2024-01-10",
       "airline": "American Airlines"
     },
     {
@@ -19,29 +19,29 @@
       "arrival_city": "London",
       "arrival_airport": "Heathrow Airport",
       "arrival_time": "22:00",
-      "flight-date": "2023-12-26",
+      "flight_date": "2024-01-09",
       "airline": "Delta Air Lines"
     },
     {
       "id": 3,
-      "departure_city": "Los Angeles",
-      "departure_airport": "John Wayne Airport",
+      "departure_city": "London",
+      "departure_airport": "Gatwick Airport",
       "departure_time": "07:45",
       "arrival_city": "Paris",
       "arrival_airport": "Charles de Gaulle Airport",
-      "arrival_time": "15:30",
-      "flight-date": "2023-12-27",
+      "arrival_time": "08:30",
+      "flight_date": "2024-01-11",
       "airline": "Turkish Airlines"
     },
     {
       "id": 4,
-      "departure_city": "Madrid",
-      "departure_airport": "Adolfo Suárez Madrid-Barajas Airport",
+      "departure_city": "Melbourne",
+      "departure_airport": "Essendon Airport",
       "departure_time": "10:00",
       "arrival_city": "Paris",
       "arrival_airport": "Orly Airport",
-      "arrival_time": "12:40",
-      "flight-date": "2023-12-28",
+      "arrival_time": "18:40",
+      "flight_date": "2024-01-08",
       "airline": "Iberia"
     },
     {
@@ -49,11 +49,67 @@
       "departure_city": "Manila",
       "departure_airport": "Clark International Airport",
       "departure_time": "18:20",
-      "arrival_city": "Moscow",
+      "arrival_city": "London",
+      "arrival_airport": "London City Airport",
+      "arrival_time": "22:15",
+      "flight_date": "2024-01-14",
+      "airline": "Emirates"
+    },
+    {
+      "id": 6,
+      "departure_city": "Manila",
+      "departure_airport": "Ninoy Aquino International Airport",
+      "departure_time": "08:35",
+      "arrival_city": "Paris",
+      "arrival_airport": "Châlons Vatry Airport",
+      "arrival_time": "14:50",
+      "flight_date": "2024-01-09",
+      "airline": "Turkish Airlines"
+    },
+    {
+      "id": 7,
+      "departure_city": "London",
+      "departure_airport": "Heathrow Airport",
+      "departure_time": "20:20",
+      "arrival_city": "New York",
       "arrival_airport": "Vnukovo International Airport",
       "arrival_time": "22:15",
-      "flight-date": "2023-12-30",
+      "flight_date": "2023-12-30",
       "airline": "Emirates"
+    },
+    {
+      "id": 8,
+      "departure_city": "Paris",
+      "departure_airport": "Beauvais–Tillé Airport",
+      "departure_time": "03:00",
+      "arrival_city": "Melbourne",
+      "arrival_airport": "Moorabbin Airport",
+      "arrival_time": "12:15",
+      "flight_date": "2024-01-10",
+      "airline": "American Airlines"
+    },
+    {
+      "id": 9,
+      "departure_city": "Paris",
+      "departure_airport": "Orly Airport",
+      "departure_time": "18:35",
+      "arrival_city": "London",
+      "arrival_airport": "London Luton Airport",
+      "arrival_time": "20:00",
+      "flight_date": "2024-01-14",
+      "airline": "Emirates"
+    },
+
+    {
+      "id": 10,
+      "departure_city": "Melbourne",
+      "departure_airport": "Avalon Airport",
+      "departure_time": "15:15",
+      "arrival_city": "New York",
+      "arrival_airport": "Long Island MacArthur Airport",
+      "arrival_time": "23:15",
+      "flight_date": "2024-01-12",
+      "airline": "Delta Air Line"
     }
   ]
 }
