@@ -12,7 +12,8 @@
       "time_difference": 3,
       "airline": "American Airlines",
       "isSaved": false,
-      "price": "170"
+      "price": "170",
+      "note": []
     },
     {
       "id": 2,
@@ -26,7 +27,8 @@
       "time_difference": 3,
       "airline": "American Airlines",
       "isSaved": false,
-      "price": "199"
+      "price": "199",
+      "note": []
     },
     {
       "id": 3,
@@ -40,7 +42,8 @@
       "time_difference": 3,
       "airline": "Delta Air Lines",
       "isSaved": false,
-      "price": "210"
+      "price": "210",
+      "note": []
     },
     {
       "id": 4,
@@ -54,7 +57,8 @@
       "time_difference": 3,
       "airline": "Delta Air Lines",
       "isSaved": false,
-      "price": "198"
+      "price": "198",
+      "note": []
     },
     {
       "id": 5,
@@ -67,8 +71,9 @@
       "arrival_time": "09:23",
       "time_difference": 3,
       "airline": "American Airlines",
-      "isSaved": false,
-      "price": "170"
+      "isSaved": true,
+      "price": "170",
+      "note": []
     },
     {
       "id": 6,
@@ -82,7 +87,8 @@
       "time_difference": 3,
       "airline": "American Airlines",
       "isSaved": false,
-      "price": "199"
+      "price": "199",
+      "note": []
     },
     {
       "id": 7,
@@ -96,7 +102,8 @@
       "time_difference": 3,
       "airline": "Delta Air Lines",
       "isSaved": false,
-      "price": "210"
+      "price": "210",
+      "note": []
     },
     {
       "id": 8,
@@ -110,7 +117,8 @@
       "time_difference": 3,
       "airline": "Delta Air Lines",
       "isSaved": false,
-      "price": "198"
+      "price": "198",
+      "note": []
     },
     {
       "id": 9,
@@ -124,7 +132,8 @@
       "time_difference": 3,
       "airline": "American Airlines",
       "isSaved": false,
-      "price": "170"
+      "price": "170",
+      "note": []
     },
     {
       "id": 10,
@@ -138,7 +147,8 @@
       "time_difference": 3,
       "airline": "American Airlines",
       "isSaved": false,
-      "price": "199"
+      "price": "199",
+      "note": []
     },
     {
       "id": 11,
@@ -152,7 +162,8 @@
       "time_difference": 3,
       "airline": "Delta Air Lines",
       "isSaved": false,
-      "price": "210"
+      "price": "210",
+      "note": []
     },
     {
       "id": 12,
@@ -166,7 +177,8 @@
       "time_difference": 3,
       "airline": "Delta Air Lines",
       "isSaved": false,
-      "price": "198"
+      "price": "198",
+      "note": []
     },
     {
       "id": 13,
@@ -180,7 +192,8 @@
       "time_difference": -3,
       "airline": "Delta Air Lines",
       "isSaved": false,
-      "price": "170"
+      "price": "170",
+      "note": []
     },
     {
       "id": 14,
@@ -194,7 +207,8 @@
       "time_difference": -3,
       "airline": "Delta Air Lines",
       "isSaved": false,
-      "price": "198"
+      "price": "198",
+      "note": []
     },
     {
       "id": 15,
@@ -208,7 +222,8 @@
       "time_difference": -3,
       "airline": "American Airlines",
       "isSaved": false,
-      "price": "250"
+      "price": "250",
+      "note": []
     },
     {
       "id": 16,
@@ -222,7 +237,8 @@
       "time_difference": -3,
       "airline": "American Airlines",
       "isSaved": false,
-      "price": "250"
+      "price": "250",
+      "note": []
     },
     {
       "id": 17,
@@ -236,7 +252,8 @@
       "time_difference": -3,
       "airline": "Delta Air Lines",
       "isSaved": false,
-      "price": "150"
+      "price": "150",
+      "note": []
     },
     {
       "id": 18,
@@ -250,7 +267,8 @@
       "time_difference": -3,
       "airline": "Delta Air Lines",
       "isSaved": false,
-      "price": "198"
+      "price": "198",
+      "note": []
     },
     {
       "id": 19,
@@ -264,7 +282,8 @@
       "time_difference": -3,
       "airline": "American Airlines",
       "isSaved": false,
-      "price": "250"
+      "price": "250",
+      "note": []
     },
     {
       "id": 20,
@@ -278,7 +297,8 @@
       "time_difference": -3,
       "airline": "American Airlines",
       "isSaved": false,
-      "price": "270"
+      "price": "270",
+      "note": []
     },
     {
       "id": 21,
@@ -292,7 +312,8 @@
       "time_difference": -3,
       "airline": "Delta Air Lines",
       "isSaved": false,
-      "price": "150"
+      "price": "150",
+      "note": []
     },
     {
       "id": 22,
@@ -306,7 +327,8 @@
       "time_difference": -3,
       "airline": "Delta Air Lines",
       "isSaved": false,
-      "price": "198"
+      "price": "198",
+      "note": []
     },
     {
       "id": 23,
@@ -320,7 +342,8 @@
       "time_difference": -3,
       "airline": "American Airlines",
       "isSaved": false,
-      "price": "250"
+      "price": "250",
+      "note": []
     },
     {
       "id": 24,
@@ -334,7 +357,8 @@
       "time_difference": -3,
       "airline": "American Airlines",
       "isSaved": false,
-      "price": "270"
+      "price": "270",
+      "note": []
     }
   ]
 }
