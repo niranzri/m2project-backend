@@ -11,9 +11,10 @@
       "arrival_time": "09:23",
       "time_difference": 3,
       "airline": "American Airlines",
-      "isSaved": false,
+      "isSaved": true,
       "price": "170",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 2,
@@ -28,7 +29,8 @@
       "airline": "American Airlines",
       "isSaved": false,
       "price": "199",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 3,
@@ -43,7 +45,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "210",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 4,
@@ -58,7 +61,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "198",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 5,
@@ -71,9 +75,10 @@
       "arrival_time": "09:23",
       "time_difference": 3,
       "airline": "American Airlines",
-      "isSaved": true,
+      "isSaved": false,
       "price": "170",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 6,
@@ -88,7 +93,8 @@
       "airline": "American Airlines",
       "isSaved": false,
       "price": "199",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 7,
@@ -103,7 +109,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "210",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 8,
@@ -118,7 +125,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "198",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 9,
@@ -131,9 +139,10 @@
       "arrival_time": "09:23",
       "time_difference": 3,
       "airline": "American Airlines",
-      "isSaved": true,
+      "isSaved": false,
       "price": "170",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 10,
@@ -148,7 +157,8 @@
       "airline": "American Airlines",
       "isSaved": false,
       "price": "199",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 11,
@@ -163,7 +173,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "210",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 12,
@@ -178,7 +189,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "198",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 13,
@@ -193,7 +205,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "170",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 14,
@@ -208,7 +221,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "198",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 15,
@@ -223,7 +237,8 @@
       "airline": "American Airlines",
       "isSaved": false,
       "price": "250",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 16,
@@ -238,7 +253,8 @@
       "airline": "American Airlines",
       "isSaved": false,
       "price": "250",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 17,
@@ -253,7 +269,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "150",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 18,
@@ -268,7 +285,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "198",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 19,
@@ -283,7 +301,8 @@
       "airline": "American Airlines",
       "isSaved": false,
       "price": "250",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 20,
@@ -298,7 +317,8 @@
       "airline": "American Airlines",
       "isSaved": false,
       "price": "270",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 21,
@@ -313,7 +333,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "150",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 22,
@@ -328,7 +349,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "198",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 23,
@@ -343,7 +365,8 @@
       "airline": "American Airlines",
       "isSaved": false,
       "price": "250",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 24,
@@ -358,7 +381,8 @@
       "airline": "American Airlines",
       "isSaved": false,
       "price": "270",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 25,
@@ -373,9 +397,9 @@
       "airline": "Turkish Airlines",
       "isSaved": false,
       "price": "270",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
-
     {
       "id": 26,
       "flight_date": "2024-01-11",
@@ -389,7 +413,8 @@
       "airline": "Emirates",
       "isSaved": false,
       "price": "150",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 27,
@@ -404,7 +429,8 @@
       "airline": "Emirates",
       "isSaved": false,
       "price": "234",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 28,
@@ -419,7 +445,8 @@
       "airline": "Emirates",
       "isSaved": false,
       "price": "189",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 29,
@@ -434,7 +461,8 @@
       "airline": "Emirates",
       "isSaved": false,
       "price": "270",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 30,
@@ -449,7 +477,8 @@
       "airline": "Emirates",
       "isSaved": false,
       "price": "150",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 31,
@@ -464,7 +493,8 @@
       "airline": "Emirates",
       "isSaved": false,
       "price": "234",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 32,
@@ -479,7 +509,8 @@
       "airline": "Emirates",
       "isSaved": false,
       "price": "189",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 33,
@@ -494,9 +525,9 @@
       "airline": "Emirates",
       "isSaved": false,
       "price": "270",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
-
     {
       "id": 34,
       "flight_date": "2024-01-13",
@@ -510,7 +541,8 @@
       "airline": "Emirates",
       "isSaved": false,
       "price": "150",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 35,
@@ -525,7 +557,8 @@
       "airline": "Emirates",
       "isSaved": false,
       "price": "234",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 36,
@@ -540,7 +573,8 @@
       "airline": "Emirates",
       "isSaved": false,
       "price": "189",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 37,
@@ -555,7 +589,8 @@
       "airline": "Turkish Airlines",
       "isSaved": false,
       "price": "270",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 38,
@@ -570,7 +605,8 @@
       "airline": "Turkish Airlines",
       "isSaved": false,
       "price": "150",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 39,
@@ -585,7 +621,8 @@
       "airline": "Turkish Airlines",
       "isSaved": false,
       "price": "234",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 40,
@@ -600,7 +637,8 @@
       "airline": "Turkish Airlines",
       "isSaved": false,
       "price": "189",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 41,
@@ -615,7 +653,8 @@
       "airline": "Turkish Airlines",
       "isSaved": false,
       "price": "270",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 42,
@@ -630,7 +669,8 @@
       "airline": "Turkish Airlines",
       "isSaved": false,
       "price": "150",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 43,
@@ -645,7 +685,8 @@
       "airline": "Turkish Airlines",
       "isSaved": false,
       "price": "234",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 44,
@@ -660,7 +701,8 @@
       "airline": "Turkish Airlines",
       "isSaved": false,
       "price": "189",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 45,
@@ -675,7 +717,8 @@
       "airline": "Turkish Airlines",
       "isSaved": false,
       "price": "167",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 46,
@@ -690,7 +733,8 @@
       "airline": "Turkish Airlines",
       "isSaved": false,
       "price": "139",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 47,
@@ -705,7 +749,8 @@
       "airline": "Turkish Airlines",
       "isSaved": false,
       "price": "145",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 48,
@@ -720,7 +765,8 @@
       "airline": "Turkish Airlines",
       "isSaved": false,
       "price": "167",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 49,
@@ -735,9 +781,9 @@
       "airline": "Iberia",
       "isSaved": false,
       "price": "270",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
-
     {
       "id": 50,
       "flight_date": "2024-01-11",
@@ -751,7 +797,8 @@
       "airline": "Iberia",
       "isSaved": false,
       "price": "150",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 51,
@@ -766,7 +813,8 @@
       "airline": "Iberia",
       "isSaved": false,
       "price": "234",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 52,
@@ -781,7 +829,8 @@
       "airline": "Iberia",
       "isSaved": false,
       "price": "189",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 53,
@@ -796,7 +845,8 @@
       "airline": "Iberia",
       "isSaved": false,
       "price": "270",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 54,
@@ -811,7 +861,8 @@
       "airline": "Iberia",
       "isSaved": false,
       "price": "150",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 55,
@@ -826,7 +877,8 @@
       "airline": "Iberia",
       "isSaved": false,
       "price": "234",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 56,
@@ -841,7 +893,8 @@
       "airline": "Iberia",
       "isSaved": false,
       "price": "189",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 57,
@@ -856,9 +909,9 @@
       "airline": "Iberia",
       "isSaved": false,
       "price": "270",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
-
     {
       "id": 58,
       "flight_date": "2024-01-13",
@@ -872,7 +925,8 @@
       "airline": "Iberia",
       "isSaved": false,
       "price": "150",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 59,
@@ -887,7 +941,8 @@
       "airline": "Iberia",
       "isSaved": false,
       "price": "234",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 60,
@@ -902,7 +957,8 @@
       "airline": "Iberia",
       "isSaved": false,
       "price": "189",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 61,
@@ -917,7 +973,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "270",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 62,
@@ -932,7 +989,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "150",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 63,
@@ -947,7 +1005,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "234",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 64,
@@ -962,7 +1021,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "189",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 65,
@@ -977,7 +1037,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "270",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 66,
@@ -992,7 +1053,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "150",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 67,
@@ -1007,7 +1069,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "234",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 68,
@@ -1022,7 +1085,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "189",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 69,
@@ -1037,7 +1101,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "167",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 70,
@@ -1052,7 +1117,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "139",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 71,
@@ -1067,7 +1133,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "145",
-      "note": []
+      "note": [],
+      "airline_review": []
     },
     {
       "id": 72,
@@ -1082,7 +1149,8 @@
       "airline": "Delta Air Lines",
       "isSaved": false,
       "price": "167",
-      "note": []
+      "note": [],
+      "airline_review": []
     }
   ]
 }
